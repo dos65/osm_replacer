@@ -1,0 +1,8 @@
+[package]
+name = "osm_pbf"
+version = "0.1.0"
+authors = ["Vadim Chelyshov <qtankle@gmail.com>"]
+
+[dependencies]
+protobuf = "*"
+byteorder = "*"
